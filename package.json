@@ -1,0 +1,15 @@
+{
+  "name": "@echocraft/echo-log",
+  "version": "0.0.1",
+  "description": "A lightweight logger for your applications with rolling file support and much more.",
+  "main": "index.js",
+  "keywords": [
+    "logger",
+    "fast",
+    "stream",
+    "rolling",
+    "json"
+  ],
+  "author": "René Schober EchoLayer Software <r.schober@outlook.com>",
+  "license": "MIT"
+}
