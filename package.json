@@ -11,5 +11,13 @@
     "json"
   ],
   "author": "René Schober EchoLayer Software <r.schober@outlook.com>",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EchoLayer-Software/echo-log.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EchoLayer-Software/echo-log/issues"
+  },
+  "homepage": "https://github.com/EchoLayer-Software/echo-log"
 }
