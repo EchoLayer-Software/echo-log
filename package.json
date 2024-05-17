@@ -1,5 +1,5 @@
 {
-  "name": "@codingruo/echo-log",
+  "name": "@echocraft/echo-log",
   "version": "0.0.1",
   "description": "A lightweight logger for your applications with rolling file support and much more.",
   "main": "index.js",
